@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|d:\\projeler\\mvc5 ile dinamik bir web projesi cv\\mvccv\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|d:\\projeler\\mvc5 ile dinamik bir web projesi cv\\mvccv\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|d:\\projeler\\mvc5 ile dinamik bir web projesi cv\\mvccv\\controllers\\deneyimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|solutionrelative:controllers\\deneyimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|d:\\projeler\\mvc5 ile dinamik bir web projesi cv\\mvccv\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{638470DA-1F77-4607-8781-C99D96C1F455}|MvcCv.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeneyimController.cs",
+              "DocumentMoniker": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Controllers\\DeneyimController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeneyimController.cs",
+              "ToolTip": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Controllers\\DeneyimController.cs",
+              "RelativeToolTip": "Controllers\\DeneyimController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:06:20.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T22:05:20.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:04:14.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Projeler\\Mvc5 ile Dinamik Bir Web Projesi CV\\MvcCv\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T21:52:19.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
