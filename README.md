@@ -32,10 +32,10 @@ Bu proje, CV bilgilerini **dinamik bir şekilde yönetebileceğin** bir platform
 ## 📸 Ekran Görüntüleri
 
 |-------|---------|
-| 🏠 **Hakkımda** | CV'nin giriş sayfası, tüm bilgilerin özetini içerir. |(https://github.com/user-attachments/assets/b54e56bc-080d-4393-8f07-cf2300743308)
-| 🎓 **Eğitim & Deneyim** | Eğitim bilgileri ve iş deneyimlerinin listelendiği sayfa. |
+| 🏠 **Hakkımda** | CV'nin giriş sayfası, tüm bilgilerin özetini içerir. |
+| 🎓 **Eğitim & Yetenekler** | Eğitim bilgileri ve iş deneyimlerinin listelendiği sayfa. |
 | 📁 **Projeler** | Eklediğin projeleri detaylarıyla görüntüleyebileceğin alan. |
-| 📩 **İletişim** | Ziyaretçilerin sana mesaj gönderebileceği sayfa. |
+| 📩 **Sertifika** | Ziyaretçilerin sana mesaj gönderebileceği sayfa. |
 | ⚙️ **Admin Paneli** | CV içeriğini düzenleyebileceğin yönetim paneli. |
 
 
