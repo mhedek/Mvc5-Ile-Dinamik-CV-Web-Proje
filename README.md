@@ -32,11 +32,12 @@ Bu proje, CV bilgilerini **dinamik bir şekilde yönetebileceğin** bir platform
 ## 📸 Ekran Görüntüleri
 
 |-------|---------|
-| 🏠 **Hakkımda** | CV'nin giriş sayfası, tüm bilgilerin özetini içerir. |
-| 🎓 **Eğitim & Yetenekler** | Eğitim bilgileri ve iş deneyimlerinin listelendiği sayfa. |
-| 📁 **Projeler** | Eklediğin projeleri detaylarıyla görüntüleyebileceğin alan. |
-| 📩 **Sertifika** | Ziyaretçilerin sana mesaj gönderebileceği sayfa. |
-| ⚙️ **Admin Paneli** | CV içeriğini düzenleyebileceğin yönetim paneli. |
+| 🏠 **Admin Paneli Giriş Ekranı** |
+| 🏠 **Hakkımda** | 
+| 🎓 **Eğitim & Yetenekler** |
+| 📁 **Projeler** |
+| 📩 **Sertifika** |
+| ⚙️ **Admin Paneli** |
 
 
 
